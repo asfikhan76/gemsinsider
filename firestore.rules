@@ -1,0 +1,21 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId} {
+      allow create, read, update: if request.auth != null && request.auth.uid == userId;
+    }
+
+    match /orders/{orderId} {
+      allow create: if request.auth != null
+        && request.resource.data.userEmail == request.auth.token.email;
+      allow read: if request.auth != null
+        && (request.auth.token.email == 'admin@gemsinsider.com'
+          || resource.data.userEmail == request.auth.token.email);
+      allow update: if request.auth != null
+        && request.auth.token.email == 'admin@gemsinsider.com';
+      allow delete: if request.auth != null
+        && request.auth.token.email == 'admin@gemsinsider.com';
+    }
+  }
+}

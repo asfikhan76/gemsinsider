@@ -1,0 +1,2637 @@
+[
+  {
+    "id": "Amethyst-1",
+    "name": "41 Carats,Lavender Amethyst Gemstone Lot from Brazil",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-1.mp4",
+    "requirements": {
+      "weight": "41 Cts",
+      "dimension": "",
+      "treatment": "Natural",
+      "clarity": "VS",
+      "color": "Lavender",
+      "shape": "",
+      "origin": "Brazil",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Amethyst-2",
+    "name": "17.40 CT Square Purple Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-2.mp4",
+    "requirements": {
+      "weight": "17.40 CT",
+      "dimension": "15* 15* 11 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Square",
+      "origin": "",
+      "hardness": "",
+      "price": "170$"
+    }
+  },
+  {
+    "id": "Amethyst-3",
+    "name": "13.30 CT Triangle Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-3.mp4",
+    "requirements": {
+      "weight": "13.30 CT",
+      "dimension": "21* 16* 11 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Triangle",
+      "origin": "",
+      "hardness": "",
+      "price": "130$"
+    }
+  },
+  {
+    "id": "Amethyst-4",
+    "name": "13 CT Purple Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-4.mp4",
+    "requirements": {
+      "weight": "13 Carats",
+      "dimension": "15* 12* 11 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Fancy Cut",
+      "origin": "Brazil",
+      "hardness": "",
+      "price": "130$"
+    }
+  },
+  {
+    "id": "Amethyst-5",
+    "name": "20.30 CT Natural Royal Purple Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-5.mp4",
+    "requirements": {
+      "weight": "20.30 CT",
+      "dimension": "18* 16* 12 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Amethyst-6",
+    "name": "14.15 CT Cushion Cut Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-6.mp4",
+    "requirements": {
+      "weight": "14.15 Carats",
+      "dimension": "14* 14* 11 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Cushion Cut Family: Quartz",
+      "origin": "Brazil",
+      "hardness": "7.5",
+      "price": "140$"
+    }
+  },
+  {
+    "id": "Amethyst-7",
+    "name": "12.20 CT P urple Amethyst Gemstone in Fancy Cut from Brazil",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-7.mp4",
+    "requirements": {
+      "weight": "12.20 Carat s",
+      "dimension": "15* 13* 10 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Fancy Cut Family: Quartz",
+      "origin": "Brazil",
+      "hardness": "7.5",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Amethyst-8",
+    "name": "30.60 CT Royal Purple Amethyst Gemstone in Pixel Cut",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-8.mp4",
+    "requirements": {
+      "weight": "30.60 CT",
+      "dimension": "25* 17* 12 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Pixel Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "300$"
+    }
+  },
+  {
+    "id": "Amethyst-9",
+    "name": "64.50 CT Emerald Cut Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-9.mp4",
+    "requirements": {
+      "weight": "64.50 CT",
+      "dimension": "32* 31* 13 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Royal Purple",
+      "shape": "Emerald Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "650$"
+    }
+  },
+  {
+    "id": "Amethyst-10",
+    "name": "21.10 Carats Natural Purple Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-10.mp4",
+    "requirements": {
+      "weight": "21.10 Carats Dimensions: 19x 14x 12 mm",
+      "dimension": "",
+      "treatment": "None,Natural",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "",
+      "origin": "Brazil Family: Quartz",
+      "hardness": "7",
+      "price": "210$"
+    }
+  },
+  {
+    "id": "Amethyst-11",
+    "name": "35.15 CT Natural Amethyst Gemston e,Brazilian Amethyst Stone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-11.mp4",
+    "requirements": {
+      "weight": "35.15 Carats",
+      "dimension": "24 x 22 x 12 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Emerald Cut Family: Quartz",
+      "origin": "Brazil",
+      "hardness": "",
+      "price": "350$"
+    }
+  },
+  {
+    "id": "Amethyst-12",
+    "name": "84 Carat Natural Amethyst Gemstone from Brazil",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-12.mp4",
+    "requirements": {
+      "weight": "84 CT",
+      "dimension": "20* 17* 14 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Hexagon",
+      "origin": "",
+      "hardness": "",
+      "price": "850$"
+    }
+  },
+  {
+    "id": "Amethyst-13",
+    "name": "32.75 CT Natural Purple Amethyst Pair,Cushion Cut Amethyst Pair",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-13.mp4",
+    "requirements": {
+      "weight": "32.75 Cts",
+      "dimension": "",
+      "treatment": "None",
+      "clarity": "Clean",
+      "color": "",
+      "shape": "Pair",
+      "origin": "",
+      "hardness": "",
+      "price": "320$"
+    }
+  },
+  {
+    "id": "Amethyst-14",
+    "name": "35.15 CT Natural Purple Amethyst Gemstone from Brazil",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-14.mp4",
+    "requirements": {
+      "weight": "35.15 CT",
+      "dimension": "24* 22* 12 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Emerald Cut",
+      "origin": "Brazil",
+      "hardness": "",
+      "price": "350$"
+    }
+  },
+  {
+    "id": "Amethyst-15",
+    "name": "19.46 CT Natural Amethyst Gemstone,Amethyst stone from Brazil",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-15.mp4",
+    "requirements": {
+      "weight": "19.46 CT",
+      "dimension": "20* 13* 11 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Emerald Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "180$"
+    }
+  },
+  {
+    "id": "Amethyst-16",
+    "name": "10.45 CT Natural Purple Amethyst Gemstone for Jewelry Making",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-16.mp4",
+    "requirements": {
+      "weight": "10.45 CT",
+      "dimension": "15* 14* 11 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple Family: Quartz",
+      "shape": "",
+      "origin": "",
+      "hardness": "7",
+      "price": "100$"
+    }
+  },
+  {
+    "id": "Amethyst-17",
+    "name": "36 CT Natural Amethyst Gemstone for Jewelry Making",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-17.mp4",
+    "requirements": {
+      "weight": "36 CT",
+      "dimension": "25* 23* 16 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Triangle",
+      "origin": "",
+      "hardness": "",
+      "price": "360$"
+    }
+  },
+  {
+    "id": "Amethyst-18",
+    "name": "28.70 CT Natural Purple Amethyst Gemstone for Jewelry Making",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-18.mp4",
+    "requirements": {
+      "weight": "28.70 CT",
+      "dimension": "19* 19* 14 mm",
+      "treatment": "None",
+      "clarity": "VS Family: Quartz",
+      "color": "Royal Purple",
+      "shape": "Asscher Cut",
+      "origin": "",
+      "hardness": "7.5",
+      "price": "280$"
+    }
+  },
+  {
+    "id": "Amethyst-19",
+    "name": "19.50 Cts Brazilian Amethyst Gemstone for Jewelry Making",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-19.mp4",
+    "requirements": {
+      "weight": "19.50 CT",
+      "dimension": "1914* 10 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Royal Purple",
+      "shape": "Emerald Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "190$"
+    }
+  },
+  {
+    "id": "Amethyst-20",
+    "name": "22.70 CT Natural Purple Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-20.mp4",
+    "requirements": {
+      "weight": "22.70 CT",
+      "dimension": "19* 15* 12 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Square",
+      "origin": "",
+      "hardness": "",
+      "price": "220$"
+    }
+  },
+  {
+    "id": "Amethyst-21",
+    "name": "62 Cts Natural Brazilian Amethyst Gemstone for Jewelry Making",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-21.mp4",
+    "requirements": {
+      "weight": "62 CT",
+      "dimension": "23* 23* 19 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Asscher",
+      "origin": "Brazil",
+      "hardness": "",
+      "price": "600$"
+    }
+  },
+  {
+    "id": "Amethyst-22",
+    "name": "32.20 CT Natural Purple Amethyst Gemstone",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-22.mp4",
+    "requirements": {
+      "weight": "32.20 CT",
+      "dimension": "27* 17* 12 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Emerald",
+      "origin": "",
+      "hardness": "",
+      "price": "320$"
+    }
+  },
+  {
+    "id": "Amethyst-23",
+    "name": "40 CT Natural Purple Amethyst Gemstone for Jewelry Making",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-23.mp4",
+    "requirements": {
+      "weight": "40 CT",
+      "dimension": "28* 16* 12 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Emerald",
+      "origin": "",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Amethyst-24",
+    "name": "35 CT Natural Purple Amethyst Gemstone in Fancy Cut",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-24.mp4",
+    "requirements": {
+      "weight": "35 CT",
+      "dimension": "22 * 14 * 10 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Fancy",
+      "origin": "",
+      "hardness": "",
+      "price": "300$"
+    }
+  },
+  {
+    "id": "Amethyst-25",
+    "name": "28 CT Natural Purple Amethyst Gemstone in Fancy Emerald Cut",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-25.mp4",
+    "requirements": {
+      "weight": "28 CT",
+      "dimension": "19 * 13 * 10 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Emerald",
+      "origin": "",
+      "hardness": "",
+      "price": "280$"
+    }
+  },
+  {
+    "id": "Amethyst-26",
+    "name": "40 CT Natural Purple Amethyst Gemstone in Emerald Cut",
+    "category": "Amethyst",
+    "media": "./assets/gems/amethyst/AME-26.mp4",
+    "requirements": {
+      "weight": "40 CT",
+      "dimension": "26 * 15 * 11 mm",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple",
+      "shape": "Emerald",
+      "origin": "",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Ametrine-1",
+    "name": "21.25 CT Bolivian Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-1.mp4",
+    "requirements": {
+      "weight": "21.25 Carats",
+      "dimension": "19.14.11 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Purple and Orange",
+      "shape": "",
+      "origin": "",
+      "hardness": "",
+      "price": "210$ AMT - 2"
+    }
+  },
+  {
+    "id": "Ametrine-2",
+    "name": "15 CT Bolivian Natural Ametrine Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-2.mp4",
+    "requirements": {
+      "weight": "15.60 CT",
+      "dimension": "16* 13* 10 mm",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Fancy",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Ametrine-3",
+    "name": "28 CT Natural Bolivian Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-3.mp4",
+    "requirements": {
+      "weight": "28 Carats",
+      "dimension": "21 x 17 x 12 MM",
+      "treatment": "None - Natural",
+      "clarity": "Fully Eye Clean,Good Clarity",
+      "color": "",
+      "shape": "Cushion Cut",
+      "origin": "Bolivia",
+      "hardness": "7.5",
+      "price": "280$ AM T- 4"
+    }
+  },
+  {
+    "id": "Ametrine-4",
+    "name": "17.10 CT Pear Shape Ametrine Gemstone,Natural Ametrine Stone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-4.mp4",
+    "requirements": {
+      "weight": "17.10 Carats",
+      "dimension": "21 x 13 x 12 MM",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Pear Cut",
+      "origin": "Bolivia",
+      "hardness": "7.5",
+      "price": "170$ AM T- 5"
+    }
+  },
+  {
+    "id": "Ametrine-5",
+    "name": "17.55 CT Natural Bi- Color Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-5.mp4",
+    "requirements": {
+      "weight": "17.55 CT",
+      "dimension": "19.4* 13* 10.9 MM",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Emerald Cut",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "175$ AM T- 6"
+    }
+  },
+  {
+    "id": "Ametrine-6",
+    "name": "27.85 Natural Bolivian Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-6.mp4",
+    "requirements": {
+      "weight": "27.85 CT",
+      "dimension": "21* 17* 12 mm",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Cushion",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "270$ AM T- 7"
+    }
+  },
+  {
+    "id": "Ametrine-7",
+    "name": "27.80 CT Bolivian Ametrine Gemstone: Cushion Cut,VVS Clarity",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-7.mp4",
+    "requirements": {
+      "weight": "27.80 CT",
+      "dimension": "22* 16.5* 12 mm",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Cushion",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "275$ AM T- 8"
+    }
+  },
+  {
+    "id": "Ametrine-8",
+    "name": "29.50 CT Natural Bolivian Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-8.mp4",
+    "requirements": {
+      "weight": "29.50 CT",
+      "dimension": "20* 17* 13 mm",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Cushion",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "300$ AM T-9"
+    }
+  },
+  {
+    "id": "Ametrine-9",
+    "name": "15.50 CT Natural Bolivian Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-9.mp4",
+    "requirements": {
+      "weight": "15.50 CT",
+      "dimension": "17 * 13 * 11 mm",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Emerald",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "180$ AM T-10"
+    }
+  },
+  {
+    "id": "Ametrine-10",
+    "name": "26 CT Natural Bolivian Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-10.mp4",
+    "requirements": {
+      "weight": "26 CT",
+      "dimension": "21 * 15 * 13 mm",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Cushion",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "280$ AM T-11"
+    }
+  },
+  {
+    "id": "Ametrine-11",
+    "name": "14.50 CT Natural Bolivian Ametrine Loose Gemstone",
+    "category": "Ametrine",
+    "media": "./assets/gems/ametrine/AMT-11.mp4",
+    "requirements": {
+      "weight": "14.50 CT",
+      "dimension": "15 * 12 * 10 mm",
+      "treatment": "None",
+      "clarity": "VVS",
+      "color": "",
+      "shape": "Cushion",
+      "origin": "Bolivia",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Aquamarine-1",
+    "name": "10.85 CT Natural Blue Aquamarine Gemstone in Asscher Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-1.mp4",
+    "requirements": {
+      "weight": "10.85 CT",
+      "dimension": "14* 11* 10 mm",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "1050$"
+    }
+  },
+  {
+    "id": "Aquamarine-2",
+    "name": "5.50 CT Natural Aquamarine Gemstone in Emerald Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-2.mp4",
+    "requirements": {
+      "weight": "5.50 C arats",
+      "dimension": "14* 9* 7 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Emerald Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "550$"
+    }
+  },
+  {
+    "id": "Aquamarine-3",
+    "name": "2.70 CT Natural Santa Maria Blue Aquamarine Gemstone",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-3.mp4",
+    "requirements": {
+      "weight": "2.70 C arats",
+      "dimension": "8* 8* 6 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Aquamarine-4",
+    "name": "5.50 CT Natural Aquamarine Gemstone",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-4.mp4",
+    "requirements": {
+      "weight": "5.50 C arats",
+      "dimension": "10* 10* 8 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "S I",
+      "color": "",
+      "shape": "Emerald Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "550$"
+    }
+  },
+  {
+    "id": "Aquamarine-5",
+    "name": "3.5 CT Natural Aquamarine Gemstone in Emerald Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-5.mp4",
+    "requirements": {
+      "weight": "3.50 C arats",
+      "dimension": "13* 7* 6 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "S I",
+      "color": "",
+      "shape": "Emerald Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "350$"
+    }
+  },
+  {
+    "id": "Aquamarine-6",
+    "name": "7.35 CT Natural Blue Aquamarine Gemstone in Square Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-6.mp4",
+    "requirements": {
+      "weight": "7.35 C arats",
+      "dimension": "11* 11* 8 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Square Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "700$"
+    }
+  },
+  {
+    "id": "Aquamarine-7",
+    "name": "6.80 C T Natural Blue Aquamarine Gemstone in Asscher Shape",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-7.mp4",
+    "requirements": {
+      "weight": "6.80 CT",
+      "dimension": "11* 11* 9 mm",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "650$"
+    }
+  },
+  {
+    "id": "Aquamarine-8",
+    "name": "2.80 CT Natural Santa Maria Blue Aquamarine Gemston e",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-8.mp4",
+    "requirements": {
+      "weight": "2.80 CT",
+      "dimension": "8* 8* 6 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "280$"
+    }
+  },
+  {
+    "id": "Aquamarine-9",
+    "name": "2.75 CT Natural Blue Aquamarine Gemstone in Emerald Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-9.mp4",
+    "requirements": {
+      "weight": "2.75 Ct s Dimensions: 11 x 8 x 6 mm",
+      "dimension": "",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Emerald Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "270$"
+    }
+  },
+  {
+    "id": "Aquamarine-10",
+    "name": "3 CT Natural Aquamarine Gemstone in Oval Shape",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-10.mp4",
+    "requirements": {
+      "weight": "3 Ct s Dimensions: 10 x 7 x 6 mm",
+      "dimension": "",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Oval Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "300$"
+    }
+  },
+  {
+    "id": "Aquamarine-11",
+    "name": "9.35 CT Natural Deep Blue Aquamarine Gemstone in Asscher Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-11.mp4",
+    "requirements": {
+      "weight": "9.35 C arats",
+      "dimension": "13* 12* 10 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "950$"
+    }
+  },
+  {
+    "id": "Aquamarine-12",
+    "name": "2.70 CT Natural Blue Aquamarine Gemstone in Emerald Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-12.mp4",
+    "requirements": {
+      "weight": "2.70 Carats",
+      "dimension": "9* 7* 6 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "Eye Clean",
+      "color": "",
+      "shape": "Emerald Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Aquamarine-13",
+    "name": "6.96 CT Natural Deep Blue Aquamarine Gemstone in Cushion Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-13.mp4",
+    "requirements": {
+      "weight": "6.96 C arats",
+      "dimension": "13* 13* 11 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Cushion Cut Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "700$"
+    }
+  },
+  {
+    "id": "Aquamarine-14",
+    "name": "3.70 CT Natural Aquamarine Gemstone for Rings making",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-14.mp4",
+    "requirements": {
+      "weight": "3.70 CT",
+      "dimension": "10* 8* 6 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "350"
+    }
+  },
+  {
+    "id": "Aquamarine-15",
+    "name": "5.40 CT Natural Blue Aquamarine Gemstone in Asscher Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-15.mp4",
+    "requirements": {
+      "weight": "5.40 CT",
+      "dimension": "12* 12* 8 MM",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "550$"
+    }
+  },
+  {
+    "id": "Aquamarine-16",
+    "name": "4 CT Natural Blue Aquamarine Gemstone in Asscher Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-16.mp4",
+    "requirements": {
+      "weight": "4.00 CT",
+      "dimension": "9* 9* 7 mm",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Aquamarine-17",
+    "name": "7.65 CT Natural Blue Aquamarine Gemstone in Cushion Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-17.mp4",
+    "requirements": {
+      "weight": "7.65 CT",
+      "dimension": "14* 12* 10 mm",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Cushion Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "720$"
+    }
+  },
+  {
+    "id": "Aquamarine-18",
+    "name": "4.75 CT Natural Blue Aquamarine Gemstone in Asscher Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-18.mp4",
+    "requirements": {
+      "weight": "4.75 CT",
+      "dimension": "10* 10* 7 mm",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "500$"
+    }
+  },
+  {
+    "id": "Aquamarine-19",
+    "name": "12.80 Natural deep Blue Aquamarine Gemstone in Asscher Cut",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-19.mp4",
+    "requirements": {
+      "weight": "12.80 CT",
+      "dimension": "15* 14* 11 mm",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "1200$"
+    }
+  },
+  {
+    "id": "Aquamarine-20",
+    "name": "2.25 CT Natural Blue Aquamarine Gemstone for Jewelry Making",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-20.mp4",
+    "requirements": {
+      "weight": "2.25 CT",
+      "dimension": "10* 7* 5 mm",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Cushion Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Aquamarine-21",
+    "name": "2.75 CT Natural Blue Aquamarine Gemstone for Rings & Jewelry Making",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AUQ-21.mp4",
+    "requirements": {
+      "weight": "2.75 Carats Dimensions: 11 * 8 * 7 MM",
+      "dimension": "",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Emerald Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "280$"
+    }
+  },
+  {
+    "id": "Aquamarine-22",
+    "name": "2.25 CT Natural Blue Aquamarine Gemstone for Rings & Jewelry Making",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-22.mp4",
+    "requirements": {
+      "weight": "2.25 Carats Dimensions: 10 * 9.5 * 7 MM",
+      "dimension": "",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Aquamarine-23",
+    "name": "12.55 CT Natural Blue Aquamarine Gemstone for Rings & Jewelry Making",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-23.mp4",
+    "requirements": {
+      "weight": "12.55 Carats Dimensions: 16 * 14 * 12 MM",
+      "dimension": "",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Cushion Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "1,250$"
+    }
+  },
+  {
+    "id": "Aquamarine-24",
+    "name": "7.55 CT Natural Blue Aquamarine Gemstone for Rings & Jewelry Making",
+    "category": "Aquamarine",
+    "media": "./assets/gems/aqua/AQU-24.mp4",
+    "requirements": {
+      "weight": "7.55 Carats Dimensions: 12 * 11 * 8 MM",
+      "dimension": "",
+      "treatment": "Heat / Irradiated",
+      "clarity": "SI",
+      "color": "",
+      "shape": "Asscher Family: Beryl",
+      "origin": "",
+      "hardness": "",
+      "price": "750$"
+    }
+  },
+  {
+    "id": "Cabochon-1",
+    "name": "93 C T – Natural Hot Pink Kunzite Cabochon from Afghanistan",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-1.mp4",
+    "requirements": {
+      "weight": "93 Carats",
+      "dimension": "29 * 21 * 16 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Pink",
+      "shape": "Cabochon",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "450$"
+    }
+  },
+  {
+    "id": "Cabochon-2",
+    "name": "38.45 C T – Natural Deep Blue Aquamarine Cabochon",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-2.mp4",
+    "requirements": {
+      "weight": "38.45 Carats",
+      "dimension": "21 * 18 * 14 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Blue",
+      "shape": "Cabochon",
+      "origin": "",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Cabochon-3",
+    "name": "12.00 C T – Natural Blue Aquamarine Cabochon",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-3.mp4",
+    "requirements": {
+      "weight": "12.00 Carats",
+      "dimension": "13 * 11 * 10 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Blue",
+      "shape": "Cabochon",
+      "origin": "",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Cabochon-4",
+    "name": "24.75 C T – Natural Blue Aquamarine Cabochon",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-4.mp4",
+    "requirements": {
+      "weight": "24.75 Carats",
+      "dimension": "27 * 15 * 11 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Blue",
+      "shape": "Cabochon",
+      "origin": "",
+      "hardness": "",
+      "price": "180$"
+    }
+  },
+  {
+    "id": "Cabochon-5",
+    "name": "36.85 C T – Natural Deep Blue Aquamarine Cabochon",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-5.mp4",
+    "requirements": {
+      "weight": "36.85 Carats",
+      "dimension": "21 * 17 * 13 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Blue",
+      "shape": "Cabochon",
+      "origin": "",
+      "hardness": "",
+      "price": "300$ CAB -6"
+    }
+  },
+  {
+    "id": "Cabochon-6",
+    "name": "7.20 C T – Natural Green Tourmaline Cabochon from Afghanistan",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-6.mp4",
+    "requirements": {
+      "weight": "7.20 Carats",
+      "dimension": "11 * 10 * 6 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Green",
+      "shape": "Cabochon",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Cabochon-7",
+    "name": "12.20 C T – Natural Pink Kunzite Cabochon from Afghanistan",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-7.mp4",
+    "requirements": {
+      "weight": "12.20 Carats",
+      "dimension": "10 * 7 * 7 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Pink",
+      "shape": "Cabochon",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Cabochon-8",
+    "name": "14.80 C T – Natural Pink Kunzite Cabochon from Afghanistan",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-8.mp4",
+    "requirements": {
+      "weight": "14.80 Carats",
+      "dimension": "15 * 11 * 10 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Pink",
+      "shape": "Cabochon",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "100$"
+    }
+  },
+  {
+    "id": "Cabochon-9",
+    "name": "22 C T – Natural Blue Aquamarine Cabochon",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-9.mp4",
+    "requirements": {
+      "weight": "22 Carats",
+      "dimension": "15 * 14 * 10 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Blue",
+      "shape": "Cabochon",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Cabochon-10",
+    "name": "9.50 C T – Natural Blue Aquamarine Cabochon",
+    "category": "Cabochon",
+    "media": "./assets/gems/cabochon/CAB-10.mp4",
+    "requirements": {
+      "weight": "9.50 Carats",
+      "dimension": "12 * 12 * 8 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Blue",
+      "shape": "Cabochon",
+      "origin": "",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Grandidierite-1",
+    "name": "4.40 C T – Natural Rare Grandidierite Loose Gemstone in Pear Cut",
+    "category": "Grandidierite",
+    "media": "./assets/gems/grandiderite/GRD-1.mp4",
+    "requirements": {
+      "weight": "4.40 Carats",
+      "dimension": "18 * 8 * 6 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "",
+      "shape": "Pear Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "440$"
+    }
+  },
+  {
+    "id": "Grandidierite-2",
+    "name": "2.50 C T – Natural Rare Grandidierite Loose Gemstone in Pear Cut",
+    "category": "Grandidierite",
+    "media": "./assets/gems/grandiderite/GRD-2.mp4",
+    "requirements": {
+      "weight": "2.50 Carats",
+      "dimension": "10 * 7 * 4 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "",
+      "shape": "Pear Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Kunzite-1",
+    "name": "5 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-1.mp4",
+    "requirements": {
+      "weight": "5 Carats",
+      "dimension": "13 * 7* 6 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "100$"
+    }
+  },
+  {
+    "id": "Kunzite-2",
+    "name": "15.65 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-2.mp4",
+    "requirements": {
+      "weight": "15.65 Carats",
+      "dimension": "17.5 * 10.5 * 9 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "300$"
+    }
+  },
+  {
+    "id": "Kunzite-3",
+    "name": "12.60 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-3.mp4",
+    "requirements": {
+      "weight": "12.60 Carats",
+      "dimension": "12 * 10 * 10 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Asscher Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Kunzite-4",
+    "name": "10.65 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-4.mp4",
+    "requirements": {
+      "weight": "10.65 Carats",
+      "dimension": "13 * 10 * 9 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Kunzite-5",
+    "name": "11.85 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-5.mp4",
+    "requirements": {
+      "weight": "11.85 Carats",
+      "dimension": "14 * 10 * 9 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "180$"
+    }
+  },
+  {
+    "id": "Kunzite-6",
+    "name": "9.90 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-6.mp4",
+    "requirements": {
+      "weight": "9.90 Carats",
+      "dimension": "15 * 8 * 8 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "180$"
+    }
+  },
+  {
+    "id": "Kunzite-7",
+    "name": "8.75 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-7.mp4",
+    "requirements": {
+      "weight": "8.75 Carats",
+      "dimension": "13 * 7* 6 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Yellow",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Kunzite-8",
+    "name": "6.65 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-8.mp4",
+    "requirements": {
+      "weight": "6.65 Carats",
+      "dimension": "12 * 8 * 7 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "140$"
+    }
+  },
+  {
+    "id": "Kunzite-9",
+    "name": "11.20 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-9.mp4",
+    "requirements": {
+      "weight": "11.20 Carats",
+      "dimension": "12 * 11 * 10 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "160$"
+    }
+  },
+  {
+    "id": "Kunzite-10",
+    "name": "26.10 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-10.mp4",
+    "requirements": {
+      "weight": "26.10 Carats",
+      "dimension": "16 * 13 * 12 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Asscher Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Kunzite-11",
+    "name": "241.0 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-11.mp4",
+    "requirements": {
+      "weight": "24.10 Carats",
+      "dimension": "17 * 14 * 13 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "240$"
+    }
+  },
+  {
+    "id": "Kunzite-12",
+    "name": "8.55 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-12.mp4",
+    "requirements": {
+      "weight": "8.55 Carats",
+      "dimension": "13 * 12 * 10 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Triangle",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Kunzite-13",
+    "name": "24.20 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-13.mp4",
+    "requirements": {
+      "weight": "24.20 Carats",
+      "dimension": "20 * 12 * 11.5 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Emerald Cut (Long)",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "480$"
+    }
+  },
+  {
+    "id": "Kunzite-14",
+    "name": "8.80 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-14.mp4",
+    "requirements": {
+      "weight": "8.80 Carats",
+      "dimension": "12 * 8 * 7 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Kunzite-15",
+    "name": "36.50 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-15.mp4",
+    "requirements": {
+      "weight": "36.50 Carats",
+      "dimension": "24 * 15 * 12 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "580$"
+    }
+  },
+  {
+    "id": "Kunzite-16",
+    "name": "24 CT – Natural Pink Kunzite Loose from Afghanistan",
+    "category": "Kunzite",
+    "media": "./assets/gems/kunzite/KUN-16.mp4",
+    "requirements": {
+      "weight": "24 Carats",
+      "dimension": "19 * 13 * 11.5 MM",
+      "treatment": "Heat",
+      "clarity": "VS",
+      "color": "Pink",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "450$"
+    }
+  },
+  {
+    "id": "Peridot-1",
+    "name": "1.20 C T – Natural Apple Green Peridot Gemstone from Pakistan",
+    "category": "Peridot",
+    "media": "./assets/gems/peridot/PRD-1.mp4",
+    "requirements": {
+      "weight": "1.20 Carats",
+      "dimension": "6 * 6 * 4 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Green",
+      "shape": "Asscher Cut",
+      "origin": "Pakistan",
+      "hardness": "",
+      "price": "240$"
+    }
+  },
+  {
+    "id": "Peridot-2",
+    "name": "4.65 C T – Natural Apple Green Peridot Gemstone from Pakistan",
+    "category": "Peridot",
+    "media": "./assets/gems/peridot/PRD-2.mp4",
+    "requirements": {
+      "weight": "4.65 Carats",
+      "dimension": "12 * 8 * 6 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Green",
+      "shape": "Oval Cut",
+      "origin": "Pakistan",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Peridot-3",
+    "name": "3.25 C T – Natural Apple Green Peridot Gemstone from Pakistan",
+    "category": "Peridot",
+    "media": "./assets/gems/peridot/PRD-3.mp4",
+    "requirements": {
+      "weight": "3.25 Carats",
+      "dimension": "12 * 8 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Green",
+      "shape": "Pear Cut",
+      "origin": "Pakistan",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Peridot-4",
+    "name": "1.75 C T – Natural Apple Green Peridot Gemstone from Pakistan",
+    "category": "Peridot",
+    "media": "./assets/gems/peridot/PRD-4.mp4",
+    "requirements": {
+      "weight": "1.75 Carats",
+      "dimension": "8 * 6 * 4 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Green",
+      "shape": "Emerald Cut",
+      "origin": "Pakistan",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Peridot-5",
+    "name": "6.50 C T – Natural Apple Green Peridot Gemstone Set Parcel from Pakistan",
+    "category": "Peridot",
+    "media": "./assets/gems/peridot/PRD-5.mp4",
+    "requirements": {
+      "weight": "6.50 Carats",
+      "dimension": "9.5 * 8 * 7 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Green",
+      "shape": "Emerald Cut",
+      "origin": "Pakistan",
+      "hardness": "",
+      "price": "750$"
+    }
+  },
+  {
+    "id": "Rubellite-1",
+    "name": "1.85 C T – Natural Rubellite Tourmaline Loose Gemstone in Asscher Cut",
+    "category": "Rubellite",
+    "media": "./assets/gems/rubellite/RBL-1.mp4",
+    "requirements": {
+      "weight": "1.85 Carats",
+      "dimension": "8 * 7 * 4 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Pink",
+      "shape": "Asscher Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "140$"
+    }
+  },
+  {
+    "id": "Rubellite-2",
+    "name": "1.40 C T – Natural Rubellite Tourmaline Loose Gemstone in Oval Cut",
+    "category": "Rubellite",
+    "media": "./assets/gems/rubellite/RBL-2.mp4",
+    "requirements": {
+      "weight": "1.40 Carats",
+      "dimension": "9 * 7 * 4 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Pink",
+      "shape": "Oval Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Rubellite-3",
+    "name": "1.60 C T – Natural Rubellite Tourmaline Loose Gemstone in Oval Cut",
+    "category": "Rubellite",
+    "media": "./assets/gems/rubellite/RBL-3.mp4",
+    "requirements": {
+      "weight": "1.60 Carats",
+      "dimension": "8 * 7 * 4 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Pink",
+      "shape": "Oval Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Spessartite Garnet-1",
+    "name": "2.00 C T – Natural Fanta Spessartite Garnet Gemstone in Oval Cut",
+    "category": "Spessartite Garnet",
+    "media": "./assets/gems/spessartite-garnet/SPG-1.mp4",
+    "requirements": {
+      "weight": "2.00 Carats",
+      "dimension": "8 * 6 * 5 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Fanta Orange",
+      "shape": "Oval Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "350$"
+    }
+  },
+  {
+    "id": "Spessartite Garnet-2",
+    "name": "3.35 C T – Natural Fanta Spessartite Garnet Gemstone in Round Cut",
+    "category": "Spessartite Garnet",
+    "media": "./assets/gems/spessartite-garnet/SPG-2.mp4",
+    "requirements": {
+      "weight": "3.35 Carats",
+      "dimension": "9 * 9 * 5 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Fanta Orange",
+      "shape": "Round Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "500$"
+    }
+  },
+  {
+    "id": "Sphene-1",
+    "name": "1.75 CT – Natural Green Sphene Gemstone from Madagascar",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-1.mp4",
+    "requirements": {
+      "weight": "1.75 Carats",
+      "dimension": "8* 7* 4 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Olive Green",
+      "shape": "Oval",
+      "origin": "Madagascar",
+      "hardness": "",
+      "price": "175$"
+    }
+  },
+  {
+    "id": "Sphene-2",
+    "name": "2.05 CT – Natural Green Sphene Gemstone from Madagascar",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-2.mp4",
+    "requirements": {
+      "weight": "2.05 Carats",
+      "dimension": "9* 6* 5 MM",
+      "treatment": "N one",
+      "clarity": "N/A",
+      "color": "Olive Green",
+      "shape": "Oval",
+      "origin": "Madagascar",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Sphene-3",
+    "name": "1.20 CT – Natural Ol ive Green Sphene Gemstone from Madagascar",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-3.mp4",
+    "requirements": {
+      "weight": "1.20 Carats",
+      "dimension": "7 x 6 x 4 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Olive Green",
+      "shape": "Round",
+      "origin": "Madagascar",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Sphene-4",
+    "name": "1.35 CT – Natural Olive Green Sphene Gemstone from Madagascar",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-4.mp4",
+    "requirements": {
+      "weight": "1.35 Carats",
+      "dimension": "8 x 6 x 3 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Olive Green",
+      "shape": "",
+      "origin": "Madagascar",
+      "hardness": "",
+      "price": "135$"
+    }
+  },
+  {
+    "id": "Sphene-5",
+    "name": "5.55 Cts – Natural Sphene Gemstone with Rutile Inclusion for Jewelry Making",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-5.mp4",
+    "requirements": {
+      "weight": "5.55 Carats",
+      "dimension": "10 x 10 x 7 MM",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Olive Green",
+      "shape": "Cushion",
+      "origin": "Madagascar",
+      "hardness": "",
+      "price": "555$"
+    }
+  },
+  {
+    "id": "Sphene-6",
+    "name": "0.80 CT – Natural Olive Green Sphene Gemstone from Madagascar",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-6.mp4",
+    "requirements": {
+      "weight": "0.80 CT",
+      "dimension": "6.5 * 5 * 3 mm",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Olive Green",
+      "shape": "Oval",
+      "origin": "",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Sphene-7",
+    "name": "0.70 CT – Natural Sphene Titanite Loose Gemstone",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-7.mp4",
+    "requirements": {
+      "weight": "0.70 CT",
+      "dimension": "5 * 5 * 3.5 mm",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Golden Yellow",
+      "shape": "Round",
+      "origin": "",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Sphene-8",
+    "name": "2.20 CT – Natural Sphene Gemstone for Rings,Necklace and Jewelry",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-8.mp4",
+    "requirements": {
+      "weight": "2.20 CT",
+      "dimension": "8.5 * 7.8 * 5.5 mm",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Golden",
+      "shape": "trilliant",
+      "origin": "",
+      "hardness": "",
+      "price": "440$"
+    }
+  },
+  {
+    "id": "Sphene-9",
+    "name": "2.70 CT – Natural Full Fire Sphene Titanite Loose Gemstone for Jewellery",
+    "category": "Sphene",
+    "media": "./assets/gems/sphene/SPH-9.mp4",
+    "requirements": {
+      "weight": "2.70 CT",
+      "dimension": "8.9 * 7.5 * 4.7 mm",
+      "treatment": "None",
+      "clarity": "N/A",
+      "color": "Golden",
+      "shape": "Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "540$"
+    }
+  },
+  {
+    "id": "Spinel-1",
+    "name": "1.90 CT - Natural Spinel Gemstone,Silver Spinel in Cushion Cut",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-1.mp4",
+    "requirements": {
+      "weight": "1.90 CT",
+      "dimension": "7* 7* 4 mm",
+      "treatment": "None",
+      "clarity": "Eye Clean",
+      "color": "Silver",
+      "shape": "Brilliant Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "180$"
+    }
+  },
+  {
+    "id": "Spinel-2",
+    "name": "1.60 Cts - Natural Blue Cobalt Spinel Gemstone in Round Cut",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-2.mp4",
+    "requirements": {
+      "weight": "1.60 CT",
+      "dimension": "7* 7* 4 mm",
+      "treatment": "None",
+      "clarity": "Clean",
+      "color": "Blue",
+      "shape": "R ound",
+      "origin": "",
+      "hardness": "",
+      "price": "350$"
+    }
+  },
+  {
+    "id": "Spinel-3",
+    "name": "1.40 Cts - Natural Spinel Loose Gemstone for rings and Jewelry making",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-3.mp4",
+    "requirements": {
+      "weight": "1.40 CT",
+      "dimension": "8* 6* 4 mm",
+      "treatment": "None",
+      "clarity": "Clean",
+      "color": "Violet",
+      "shape": "Brilliant Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "220$"
+    }
+  },
+  {
+    "id": "Spinel-4",
+    "name": "1.30 CT – Natural Blue Spinel Gemstone in Cushion Cut",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-4.mp4",
+    "requirements": {
+      "weight": "1.30 CT",
+      "dimension": "7* 7* 4 mm",
+      "treatment": "None",
+      "clarity": "Clean",
+      "color": "Blue",
+      "shape": "Brilliant Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Spinel-5",
+    "name": "1.60 CT – Natural Violet Purple Spinel Gemstone",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-5.mp4",
+    "requirements": {
+      "weight": "1.60 Cts Dimensions: 8 x 6 x 4 mm",
+      "dimension": "",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Violent Purple",
+      "shape": "",
+      "origin": "",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Spinel-6",
+    "name": "1.70 Cts – Certified Red Spinel Gemstone in Heart Shape Jewelry Making",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-6.mp4",
+    "requirements": {
+      "weight": "1.70 CT",
+      "dimension": "9* 7* 4 mm",
+      "treatment": "None",
+      "clarity": "Clean",
+      "color": "Red",
+      "shape": "Brilliant Heart",
+      "origin": "",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Spinel-7",
+    "name": "3.15 CT – Natural Dark Purple Spinel Loose Gemsto ne in Cushion Cut",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-7.mp4",
+    "requirements": {
+      "weight": "3.15 CT",
+      "dimension": "8* 8* 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Dark Purple",
+      "shape": "Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "280$"
+    }
+  },
+  {
+    "id": "Spinel-8",
+    "name": "1.45 CT – Natural Purplish Black Spinel Gemstone",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-8.mp4",
+    "requirements": {
+      "weight": "1.45 CT",
+      "dimension": "7* 6* 4 MM",
+      "treatment": "None",
+      "clarity": "SI",
+      "color": "Purplish Black",
+      "shape": "Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Spinel-9",
+    "name": "1.75 CT – Natural Purplish Black Spinel Gemston e in Cushion Cut",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-9.mp4",
+    "requirements": {
+      "weight": "1.75 CT",
+      "dimension": "78* 6.5* 4 mm",
+      "treatment": "None",
+      "clarity": "SI",
+      "color": "Purplish Black",
+      "shape": "Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Spinel-10",
+    "name": "1.60 CT – Natural purple Spinel Loose Gemstone for rings and Jewelry making",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPM-10.mp4",
+    "requirements": {
+      "weight": "1.60 CT",
+      "dimension": "8* 5* 4 mm",
+      "treatment": "None",
+      "clarity": "Clean",
+      "color": "Violet Purple",
+      "shape": "Brilliant Raidant",
+      "origin": "",
+      "hardness": "",
+      "price": "220$"
+    }
+  },
+  {
+    "id": "Spinel-11",
+    "name": "1.75 CT – Natural Spinel Gemstone in Brilliant Cushion Cut",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-11.mp4",
+    "requirements": {
+      "weight": "1.75 CT",
+      "dimension": "7* 6* 4 mm",
+      "treatment": "None",
+      "clarity": "Clean",
+      "color": "Purple",
+      "shape": "Brilliant Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "175$"
+    }
+  },
+  {
+    "id": "Spinel-12",
+    "name": "1.60 CT – Natural Dark Grey Spinel Gemstone in Cushion Cut",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-12.mp4",
+    "requirements": {
+      "weight": "1.60 CT",
+      "dimension": "7* 6.5* 4 mm",
+      "treatment": "None",
+      "clarity": "Eye Clean",
+      "color": "Dark Grey",
+      "shape": "Brilliant Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Spinel-13",
+    "name": "1.85 CT – Natural Metallic Grey Spinel Gemstone for Rings & Jewelry Making",
+    "category": "Spinel",
+    "media": "./assets/gems/spinel/SPN-13.mp4",
+    "requirements": {
+      "weight": "1.85 CT",
+      "dimension": "8* 5* 4 mm",
+      "treatment": "None",
+      "clarity": "Eye Clean",
+      "color": "Metallic Grey",
+      "shape": "Brilliant Cushion",
+      "origin": "",
+      "hardness": "",
+      "price": "160$"
+    }
+  },
+  {
+    "id": "Tanzanite-1",
+    "name": "3.15 C T – Natural Purple Tanzanite Loose Gemstone in Pear Cut",
+    "category": "Tanzanite",
+    "media": "./assets/gems/tanzanite/TAN-1.mp4",
+    "requirements": {
+      "weight": "3.15 Carats",
+      "dimension": "11 * 7 * 6 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "P urple",
+      "shape": "Pear Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Tanzanite-2",
+    "name": "2.00 C T – Natural Purple Tanzanite Loose Gemstone in Heart Cut",
+    "category": "Tanzanite",
+    "media": "./assets/gems/tanzanite/TAN-2.mp4",
+    "requirements": {
+      "weight": "2.00 Carats",
+      "dimension": "5 * 4 * 3 MM",
+      "treatment": "Heat",
+      "clarity": "N/A",
+      "color": "Purple",
+      "shape": "Heart Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Topaz-1",
+    "name": "55.55 CT – Natural Swiss Blue Topaz Gemstone in Cushion Shape",
+    "category": "Topaz",
+    "media": "./assets/gems/topaz/TPZ-1.mp4",
+    "requirements": {
+      "weight": "55.55 Carats",
+      "dimension": "24.5 * 19 * 13 MM",
+      "treatment": "Irradiated",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "450$"
+    }
+  },
+  {
+    "id": "Topaz-2",
+    "name": "34 CT – Natural Swiss Blue Topaz Gemstone in Pear Shape",
+    "category": "Topaz",
+    "media": "./assets/gems/topaz/TPZ-2.mp4",
+    "requirements": {
+      "weight": "34 Carats",
+      "dimension": "25 * 18 * 12 MM",
+      "treatment": "Irradiated",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Pear Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "300$"
+    }
+  },
+  {
+    "id": "Topaz-3",
+    "name": "56.30 CT – Natural Swiss Blue Topaz Gemstone in Cushion Shape",
+    "category": "Topaz",
+    "media": "./assets/gems/topaz/TPZ-3.mp4",
+    "requirements": {
+      "weight": "56.30 Carats",
+      "dimension": "24 * 21 * 13 MM",
+      "treatment": "Irradiated",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Topaz-4",
+    "name": "58.70 CT – Natural Swiss Blue Topaz Gemstone in Cushion Shape",
+    "category": "Topaz",
+    "media": "./assets/gems/topaz/TPZ-4.mp4",
+    "requirements": {
+      "weight": "58.70 Carats",
+      "dimension": "24 * 19 * 14.5 MM",
+      "treatment": "Irradiated",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Topaz-5",
+    "name": "64 CT – Natural Swiss Blue Topaz Gemstone in Cushion Shape",
+    "category": "Topaz",
+    "media": "./assets/gems/topaz/TPZ-5.mp4",
+    "requirements": {
+      "weight": "64 Carats",
+      "dimension": "24 * 19.5 * 16 MM",
+      "treatment": "Irradiated",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "550$"
+    }
+  },
+  {
+    "id": "Topaz-6",
+    "name": "50 CT – Natural Swiss Blue Topaz Gemstone in Cushion Shape",
+    "category": "Topaz",
+    "media": "./assets/gems/topaz/TPZ-6.mp4",
+    "requirements": {
+      "weight": "50 Carats",
+      "dimension": "22 * 18 * 15 MM",
+      "treatment": "Irradiated",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "500$"
+    }
+  },
+  {
+    "id": "Topaz-7",
+    "name": "58 CT – Natural Swiss Blue Topaz Gemstone in Cushion Shape",
+    "category": "Topaz",
+    "media": "./assets/gems/topaz/TPZ-7.mp4",
+    "requirements": {
+      "weight": "58 Carats",
+      "dimension": "25 * 19 * 16 MM",
+      "treatment": "Irradiated",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "",
+      "hardness": "",
+      "price": "520$"
+    }
+  },
+  {
+    "id": "Tourmaline-1",
+    "name": "2.00 CT – Natural Bluish Green Tourmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-1.mp4",
+    "requirements": {
+      "weight": "2.00 Carats",
+      "dimension": "7.5 * 5.5 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blu ish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "480$"
+    }
+  },
+  {
+    "id": "Tourmaline-2",
+    "name": "1.55 CT – Natural Bluish Green Tourmaline G e mstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-2.mp4",
+    "requirements": {
+      "weight": "1.55 Carats",
+      "dimension": "6 * 5.5 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "320$"
+    }
+  },
+  {
+    "id": "Tourmaline-3",
+    "name": "2.25 CT – Natural Indigo Blue To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-3.mp4",
+    "requirements": {
+      "weight": "2.25 Carats",
+      "dimension": "8 * 7 * 6 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Indigo Blue",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Tourmaline-4",
+    "name": "2.80 CT – Natural Blu ish Green To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-4.mp4",
+    "requirements": {
+      "weight": "2.80 Carats",
+      "dimension": "8 * 7 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "500$"
+    }
+  },
+  {
+    "id": "Tourmaline-5",
+    "name": "2.60 CT – Natural Blu ish Green To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-5.mp4",
+    "requirements": {
+      "weight": "2.60 Carats",
+      "dimension": "7.2 * 7.2 * 6 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "700$"
+    }
+  },
+  {
+    "id": "Tourmaline-6",
+    "name": "2.45 CT – Natural Blu ish Green To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-6.mp4",
+    "requirements": {
+      "weight": "2.45 Carats",
+      "dimension": "7.7 * 5 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "750$"
+    }
+  },
+  {
+    "id": "Tourmaline-7",
+    "name": "2.65 CT – Natural Blu ish Green To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-7.mp4",
+    "requirements": {
+      "weight": "2.65 Carats",
+      "dimension": "12 * 5 * 4.5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "265$"
+    }
+  },
+  {
+    "id": "Tourmaline-8",
+    "name": "2.65 CT – Natural Blu ish Green To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-8.mp4",
+    "requirements": {
+      "weight": "2.65 Carats",
+      "dimension": "11 * 6 * 4.5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "300$"
+    }
+  },
+  {
+    "id": "Tourmaline-9",
+    "name": "3.10 CT – Natural Green To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-9.mp4",
+    "requirements": {
+      "weight": "3.10 Carats",
+      "dimension": "9.5 * 6.5 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "700$"
+    }
+  },
+  {
+    "id": "Tourmaline-10",
+    "name": "2.20 CT – Natural Blu ish Green To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-10.mp4",
+    "requirements": {
+      "weight": "2.20 Carats",
+      "dimension": "9 * 5 * 4.5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "200$"
+    }
+  },
+  {
+    "id": "Tourmaline-11",
+    "name": "4.00 CT – Natural Indigo Blue To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-11.mp4",
+    "requirements": {
+      "weight": "4.00 Carats",
+      "dimension": "14 * 7 * 3.5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Indigo Blue",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "350$"
+    }
+  },
+  {
+    "id": "Tourmaline-12",
+    "name": "0.70 CT – Natural Sky-Blue To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-12.mp4",
+    "requirements": {
+      "weight": "0.70 Carats",
+      "dimension": "8 * 3.5 * 3 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "100$"
+    }
+  },
+  {
+    "id": "Tourmaline-13",
+    "name": "1.00 CT – Natural Blue To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-13.mp4",
+    "requirements": {
+      "weight": "1.00 Carats",
+      "dimension": "7 * 5 * 3.5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blu e",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "90$"
+    }
+  },
+  {
+    "id": "Tourmaline-14",
+    "name": "1.00 CT – Natural Dark Blue To urmaline Gemstone in Square Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-14.mp4",
+    "requirements": {
+      "weight": "1.00 Carats",
+      "dimension": "5.5 * 5 * 4 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Square Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "80$"
+    }
+  },
+  {
+    "id": "Tourmaline-15",
+    "name": "2.75 CT – Natural Teal Green To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-15.mp4",
+    "requirements": {
+      "weight": "2.75 Carats",
+      "dimension": "14 * 5 * 4 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Teal Green",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "320$"
+    }
+  },
+  {
+    "id": "Tourmaline-16",
+    "name": "0.85 CT – Natural Blue To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-16.mp4",
+    "requirements": {
+      "weight": "0.85 Carats",
+      "dimension": "7 * 5 * 3 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blu e",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Tourmaline-17",
+    "name": "2.45 CT – Natural Ink- Blue To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-17.mp4",
+    "requirements": {
+      "weight": "2.45 Carats",
+      "dimension": "7.5 * 7.5 * 6 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Ink-Blue",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "1,500$"
+    }
+  },
+  {
+    "id": "Tourmaline-18",
+    "name": "1.55 CT – Natural Indicolite Blue To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-18.mp4",
+    "requirements": {
+      "weight": "1.55 Carats",
+      "dimension": "6 * 5 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "150$"
+    }
+  },
+  {
+    "id": "Tourmaline-19",
+    "name": "1.30 CT – Natural Tiffany Blue To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-19.mp4",
+    "requirements": {
+      "weight": "1.30 Carats",
+      "dimension": "14 * 3 * 3 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Tiffany Blue",
+      "shape": "Emerald Cut (Long)",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Tourmaline-20",
+    "name": "1.75 CT – Natural Indicolite Blue To urmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-20.mp4",
+    "requirements": {
+      "weight": "1.75 Carats",
+      "dimension": "7 * 6.5 * 5.5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "250$"
+    }
+  },
+  {
+    "id": "Tourmaline-21",
+    "name": "4.00 CT – Natural Indicolite Blue To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-21.mp4",
+    "requirements": {
+      "weight": "4.00 Carats",
+      "dimension": "14 * 7 * 3.5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Indicolite Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "400$"
+    }
+  },
+  {
+    "id": "Tourmaline-22",
+    "name": "1.20 CT – Natural Blue To urmaline Gemstone in Emerald Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-22.mp4",
+    "requirements": {
+      "weight": "1.20 Carats",
+      "dimension": "10 * 4 * 3 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blue",
+      "shape": "Emerald Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "120$"
+    }
+  },
+  {
+    "id": "Tourmaline-23",
+    "name": "1.80 CT – Natural Blu ish Green Tourmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-23.mp4",
+    "requirements": {
+      "weight": "1.80 Carats",
+      "dimension": "12 * 6 * 4 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Blu ish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "380$"
+    }
+  },
+  {
+    "id": "Tourmaline-24",
+    "name": "1.50 CT – Natural Bluish Green Tourmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-24.mp4",
+    "requirements": {
+      "weight": "1.50 Carats",
+      "dimension": "11 * 6.5 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "340$"
+    }
+  },
+  {
+    "id": "Tourmaline-25",
+    "name": "1.20 CT – Natural Bluish Green Tourmaline Gemstone in Cushion Shape",
+    "category": "Tourmaline",
+    "media": "./assets/gems/tourmaline/TOR-25.mp4",
+    "requirements": {
+      "weight": "1.20 Carats",
+      "dimension": "10 * 5.5 * 5 MM",
+      "treatment": "None",
+      "clarity": "VS",
+      "color": "Bluish Green",
+      "shape": "Cushion Cut",
+      "origin": "Afghanistan",
+      "hardness": "",
+      "price": "320$"
+    }
+  }
+]
