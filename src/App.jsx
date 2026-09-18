@@ -93,11 +93,11 @@ function App() {
     { name: 'Tourmaline', origin: 'Colour without compromise', media: '/gems/tourmaline.mp4' },
   ]
 
-  const teamMembers = [
-    { name: 'Khushal Riaz Khan', role: 'Founder & CEO · Certified Gemologist', initials: 'KR', bio: 'Khushal Riaz Khan is the Founder and CEO of GEMS INSIDER and a Certified Gemologist with professional experience in the gemstone industry since 2021. His approach combines gemological knowledge with practical industry experience, ensuring every gemstone is carefully assessed and represented with professionalism, transparency, and integrity.' },
-    { name: 'Kumail Ayaz', role: 'Chief Operating Officer · COO', initials: 'KA', bio: 'Kumail Ayaz serves as the Chief Operating Officer of GEMS INSIDER, contributing to the company’s operations, development, and day-to-day management. He supports efficient operations, strategic initiatives, and strong relationships with clients and partners.' },
-    { name: 'Muhammad Omer', role: 'Technical Specialist & Photographer', initials: 'MO', bio: 'Muhammad Omer is a key member of the GEMS INSIDER team, managing technical needs and creating high-quality visual content that showcases gemstones in their finest detail. He focuses on accurate, professional, and visually appealing imagery.' },
-  ]
+   const teamMembers = [
+     { name: 'Khushal Riaz Khan', role: 'Founder & CEO · Certified Gemologist', image: '/team-khushal.png', bio: 'Khushal Riaz Khan is the Founder and CEO of GEMS INSIDER and a Certified Gemologist with professional experience in the gemstone industry since 2021. His approach combines gemological knowledge with practical industry experience, ensuring every gemstone is carefully assessed and represented with professionalism, transparency, and integrity.' },
+     { name: 'Kumail Ayaz', role: 'Chief Operating Officer · COO', image: '/team-kumail.png', bio: 'Kumail Ayaz serves as the Chief Operating Officer of GEMS INSIDER, contributing to the company\'s operations, development, and day-to-day management. He supports efficient operations, strategic initiatives, and strong relationships with clients and partners.' },
+     { name: 'Muhammad Omer', role: 'Technical Specialist & Photographer', image: '/team-omer.png', bio: 'Muhammad Omer is a key member of the GEMS INSIDER team, managing technical needs and creating high-quality visual content that showcases gemstones in their finest detail. He focuses on accurate, professional, and visually appealing imagery.' },
+   ]
 
   const policyPages = {
     privacy: {
@@ -203,6 +203,13 @@ function App() {
   }
 
   const addToCart = (product) => {
+    if (!user) {
+      setPendingBuy([product])
+      setAuthMode('login')
+      setAuthOpen(true)
+      return
+    }
+    if (user.role === 'admin') return
     setCart((currentCart) => currentCart.some((item) => item.id === product.id)
       ? currentCart
       : [...currentCart, { id: product.id, name: product.name, category: product.category, price: product.requirements.price || 'Inquire' }])
@@ -260,6 +267,18 @@ function App() {
     }
     setAuthOpen(false)
     if (pendingBuy.length) {
+      setCart((currentCart) => {
+        const newItems = pendingBuy.filter((item) => !currentCart.some((cartItem) => cartItem.id === item.id))
+        return [...currentCart, ...newItems.map((item) => ({
+          id: item.id,
+          name: item.name,
+          category: item.category,
+          price: item.requirements?.price || item.price || 'Inquire'
+        }))]
+      })
+      setNotice(`${pendingBuy.length} item${pendingBuy.length > 1 ? 's' : ''} added to your cart.`)
+      setTimeout(() => setNotice(''), 2500)
+      setPendingBuy([])
       setPaymentError('')
       setPaymentOpen(true)
     }
@@ -402,7 +421,7 @@ function App() {
         <div className="team-grid">
           {teamMembers.map((member, index) => (
             <article className="team-card" key={member.name}>
-              <div className="team-portrait"><span>{member.initials}</span><small>0{index + 1}</small></div>
+              <div className="team-portrait"><img src={member.image} alt={member.name} /><small>0{index + 1}</small></div>
               <div className="team-card-copy">
                 <p className="team-role">{member.role}</p>
                 <h2>{member.name}</h2>
@@ -485,26 +504,32 @@ function App() {
           <img src={theme === 'light' ? '/logo-gems-insider-light.png' : logo} alt="Gems Insider" />
           <p>Natural colour. Individual character.</p>
         </div>
+        <div className="footer-social">
+          <p className="footer-label">Follow &amp; explore</p>
+          <a href="https://www.instagram.com/gemsinsider.co" target="_blank" rel="noreferrer">Instagram ↗</a>
+          <a href="https://www.tiktok.com/@gems_insider" target="_blank" rel="noreferrer">TikTok ↗</a>
+          <a href="#home" onClick={(event) => handleNavigation(event, '#home')}>Back to top ↑</a>
+        </div>
+        <div className="footer-policies">
+          <p className="footer-label">Our policies</p>
+          <a href="#privacy" onClick={(event) => handleNavigation(event, '#privacy')}>Privacy</a>
+          <a href="#refund" onClick={(event) => handleNavigation(event, '#refund')}>Refunds</a>
+          <a href="#terms" onClick={(event) => handleNavigation(event, '#terms')}>Terms</a>
+          <a href="#faqs" onClick={(event) => handleNavigation(event, '#faqs')}>FAQs</a>
+        </div>
+        <div className="footer-store">
+          <p className="footer-label">Our shop</p>
+          <p>Gems Insider, 4B Salman Market basement near Shah Qabool Masjid, Namak Mandi, Peshawar 25000, Pakistan.</p>
+          <a href="https://share.google/CKdBsnFrzFXQtT73i" target="_blank" rel="noreferrer">Open Google Maps ↗</a>
+        </div>
         <div className="footer-contact">
           <p className="footer-label">Contact us</p>
           <a href="tel:+923339940220">+92 333 9940220</a>
           <a href="mailto:gemsinsider@gmail.com">gemsinsider@gmail.com</a>
           <a href="https://wa.me/923339940220" target="_blank" rel="noreferrer">WhatsApp ↗</a>
         </div>
-        <div className="footer-store">
-          <p className="footer-label">Our store</p>
-          <p>Gems Insider, 4B Salman Market basement near Shah Qabool Masjid, Namak Mandi, Peshawar 25000, Pakistan.</p>
-          <a href="https://share.google/CKdBsnFrzFXQtT73i" target="_blank" rel="noreferrer">Open Google Maps ↗</a>
-        </div>
-        <div className="footer-links">
-          <p className="footer-label">Follow &amp; explore</p>
-          <a href="https://www.instagram.com/gemsinsider.co" target="_blank" rel="noreferrer">Instagram ↗</a>
-          <a href="https://www.tiktok.com/@gems_insider" target="_blank" rel="noreferrer">TikTok ↗</a>
-          <a href="#home" onClick={(event) => handleNavigation(event, '#home')}>Back to top ↑</a>
-        </div>
         <div className="footer-bottom">
           <p className="footer-caption">© 2026 Gems Insider · Pakistan Registered</p>
-          <div className="footer-policies"><a href="#privacy" onClick={(event) => handleNavigation(event, '#privacy')}>Privacy</a><a href="#refund" onClick={(event) => handleNavigation(event, '#refund')}>Refunds</a><a href="#terms" onClick={(event) => handleNavigation(event, '#terms')}>Terms</a><a href="#faqs" onClick={(event) => handleNavigation(event, '#faqs')}>FAQs</a></div>
         </div>
       </footer>
 
