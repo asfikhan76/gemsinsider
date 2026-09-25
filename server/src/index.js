@@ -1,0 +1,84 @@
+import express from 'express'
+import cors from 'cors'
+import { fileURLToPath } from 'url'
+import { dirname, join } from 'path'
+import dotenv from 'dotenv'
+import connectDB from './config/db.js'
+import authRoutes from './routes/auth.js'
+import orderRoutes from './routes/orders.js'
+import contactRoutes from './routes/contact.js'
+import User from './models/User.js'
+import bcrypt from 'bcryptjs'
+import { readFileSync } from 'fs'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
+dotenv.config({ path: join(__dirname, '..', '.env') })
+
+const app = express()
+const PORT = process.env.PORT || 5000
+
+app.use(cors({ origin: (origin, callback) => {
+    if (!origin || origin.includes('localhost:') || origin === 'null') return callback(null, true)
+    callback(new Error('Not allowed by CORS'))
+  }, credentials: true }))
+app.use(express.json())
+
+connectDB()
+
+app.use('/api/auth', authRoutes)
+app.use('/api/orders', orderRoutes)
+app.use('/api/contact', contactRoutes)
+
+app.post('/api/auth/create-admin', async (req, res) => {
+  try {
+    const { email, password, name } = req.body
+    const existing = await User.findOne({ email })
+    if (existing) {
+      return res.status(400).json({ message: 'Admin account already exists' })
+    }
+    const hashedPassword = await bcrypt.hash(password, 10)
+    const user = new User({ email, password: hashedPassword, name, role: 'admin' })
+    await user.save()
+    res.status(201).json({ message: 'Admin account created' })
+  } catch (error) {
+    console.error('Create admin error:', error)
+    res.status(500).json({ message: 'Failed to create admin' })
+  }
+})
+
+app.get('/api/health', (_req, res) => {
+  res.json({ status: 'ok' })
+})
+
+const createDefaultAdmin = async () => {
+  try {
+    const existing = await User.findOne({ email: 'admin@gemsinsider.com' })
+    if (!existing) {
+      const hashed = await bcrypt.hash(process.env.ADMIN_PASSWORD || 'admin123', 10)
+      const user = new User({ email: 'admin@gemsinsider.com', password: hashed, name: 'Admin', role: 'admin' })
+      await user.save()
+      console.log('Default admin account created')
+    }
+  } catch (error) {
+    console.error('Could not create default admin:', error)
+  }
+}
+
+createDefaultAdmin()
+
+const distPath = join(__dirname, '..', '..', 'dist')
+try {
+  readFileSync(join(distPath, 'index.html'))
+  app.use(express.static(distPath))
+  app.get('*', (_req, res) => {
+    res.sendFile(join(distPath, 'index.html'))
+  })
+  console.log('Serving frontend from dist/')
+} catch {
+  console.log('Frontend dist/ not found, run npm run build first')
+}
+
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`)
+})
